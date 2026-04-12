@@ -16,6 +16,9 @@ for details.
   notebook execution, tagging, GitHub release, PyPI trusted publishing,
   and Zenodo archival.
 - `CHANGELOG.md` — this file, following Keep a Changelog format.
+- `ROADMAP.md` — forward-looking design document for discopt-based MIQP
+  best-subset selection (Tier 1) and combined selection plus constraint
+  enforcement (Tier 2). Deferred until discopt/ripopt APIs stabilize.
 
 ## [0.2.2] - 2026-04-12
 
