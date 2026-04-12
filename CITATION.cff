@@ -10,7 +10,7 @@ authors:
 repository-code: "https://github.com/jkitchin/jaxsr"
 url: "https://jkitchin.github.io/jaxsr/"
 license: MIT
-version: 0.2.0
+version: 0.2.1
 keywords:
   - symbolic regression
   - JAX
