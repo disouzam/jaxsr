@@ -1,0 +1,29 @@
+{
+  "title": "JAXSR: JAX-based Symbolic Regression",
+  "description": "JAXSR is a fully open-source symbolic regression library built on JAX that discovers interpretable algebraic expressions from data. It uses sparse optimization techniques with JAX for automatic differentiation, JIT compilation, and GPU acceleration.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Kitchin, John R.",
+      "affiliation": "Carnegie Mellon University"
+    }
+  ],
+  "keywords": [
+    "symbolic regression",
+    "JAX",
+    "machine learning",
+    "sparse optimization",
+    "model discovery",
+    "scientific computing",
+    "interpretable machine learning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/jkitchin/jaxsr",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

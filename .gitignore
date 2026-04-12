@@ -16,4 +16,18 @@ archive/
 *.json
 !pyproject.toml
 !*.ipynb
+!.zenodo.json
+
+# Manuscript build artifacts (LaTeX export of jaxsr-paper.org)
+manuscript/_minted/
+manuscript/*.tex
+manuscript/*.pdf
+manuscript/*.dvi
+manuscript/*.synctex.gz
+manuscript/*.aux
+manuscript/*.log
+manuscript/*.out
+manuscript/*.bbl
+manuscript/*.blg
+manuscript/*.toc
 

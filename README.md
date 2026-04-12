@@ -1,5 +1,6 @@
 # JAXSR: JAX-based Symbolic Regression
 
+[![GitHub release](https://img.shields.io/github/v/release/jkitchin/jaxsr?include_prereleases&sort=semver)](https://github.com/jkitchin/jaxsr/releases)
 [![Tests](https://github.com/jkitchin/jaxsr/actions/workflows/tests.yml/badge.svg)](https://github.com/jkitchin/jaxsr/actions/workflows/tests.yml)
 [![Docs](https://github.com/jkitchin/jaxsr/actions/workflows/docs.yml/badge.svg)](https://jkitchin.github.io/jaxsr/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
