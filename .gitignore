@@ -13,6 +13,7 @@ htmlcov/
 docs/_build/
 .nb_stamps/
 archive/
+.crucible/
 *.json
 !pyproject.toml
 !*.ipynb
